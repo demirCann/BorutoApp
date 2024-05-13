@@ -8,7 +8,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_onbaording.png" alt="project-screenshot" width="250" height="500/"> <img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_home_screen.png" alt="project-screenshot" width="250" height="500/"> <img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_search_screen.png" alt="project-screenshot" width="250" height="500/"> <img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_character_screen.png" alt="project-screenshot" width="250" height="500/">
+<img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_onbaording.png" alt="project-screenshot" width="250" height="500/"> <img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_home_screen.png" alt="project-screenshot" width="250" height="500/"> 
+<img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_search_screen.png" alt="project-screenshot" width="250" height="500/"> <img src="https://github.com/demirCann/BorutoApp/blob/master/images/boruto_app_character_screen.png" alt="project-screenshot" width="250" height="500/">
 
 
   
